@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 60px;
+}
+
+.label {
+    font-size: 30px;
+}
+
+.input {
+    width: 300px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 5px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.list {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.item {
+    width: 200px;
+    border: 2px solid black;
+    padding: 25px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.text {
+    font-size: 18px;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.hour {
+    font-weight: bold;
+    font-size: 25px;
+    margin: 0;
+}
